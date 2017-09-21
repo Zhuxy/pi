@@ -1,9 +1,9 @@
 enxb827eb1cf6d4: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.25.30.49  netmask 255.255.255.0  broadcast 10.25.30.255
         ether b8:27:eb:1c:f6:d4  txqueuelen 1000  (Ethernet)
-        RX packets 1478  bytes 126395 (123.4 KiB)
+        RX packets 2436  bytes 224024 (218.7 KiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 110  bytes 19271 (18.8 KiB)
+        TX packets 187  bytes 35095 (34.2 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
@@ -17,8 +17,8 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.10.10.17  netmask 255.255.255.0  broadcast 10.10.10.255
         ether b8:27:eb:49:a3:81  txqueuelen 1000  (Ethernet)
-        RX packets 545  bytes 74602 (72.8 KiB)
+        RX packets 730  bytes 100137 (97.7 KiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 451  bytes 87808 (85.7 KiB)
+        TX packets 496  bytes 94811 (92.5 KiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
