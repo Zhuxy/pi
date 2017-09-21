@@ -1,24 +1,5 @@
-enxb827eb1cf6d4: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 10.25.30.87  netmask 255.255.255.0  broadcast 10.25.30.255
-        ether b8:27:eb:1c:f6:d4  txqueuelen 1000  (Ethernet)
-        RX packets 743  bytes 66794 (65.2 KiB)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 77  bytes 14573 (14.2 KiB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
-lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
-        inet 127.0.0.1  netmask 255.0.0.0
-        loop  txqueuelen 1  (Local Loopback)
-        RX packets 2  bytes 100 (100.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 2  bytes 100 (100.0 B)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
-wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 10.10.10.17  netmask 255.255.255.0  broadcast 10.10.10.255
-        ether b8:27:eb:49:a3:81  txqueuelen 1000  (Ethernet)
-        RX packets 69  bytes 16058 (15.6 KiB)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 103  bytes 17953 (17.5 KiB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
+2017年 09月 21日 星期四 16:31:17 CST
+          inet addr:10.25.30.58  Bcast:10.25.30.255  Mask:255.255.255.0
+          inet6 addr: fe80::9b29:4cfb:5210:4e8d/64 Scope:Link
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
