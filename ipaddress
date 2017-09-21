@@ -1,5 +1,7 @@
-2017年 09月 21日 星期四 18:30:01 CST
+2017年 09月 21日 星期四 18:32:01 CST
           inet addr:10.25.30.58  Bcast:10.25.30.255  Mask:255.255.255.0
           inet6 addr: fe80::9b29:4cfb:5210:4e8d/64 Scope:Link
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
+          inet addr:192.168.12.1  Bcast:192.168.12.255  Mask:255.255.255.0
+          inet6 addr: fe80::ba27:ebff:fe49:a381/64 Scope:Link
