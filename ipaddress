@@ -1,6 +1,6 @@
-2018年 09月 13日 星期四 17:40:01 CST
+2018年 09月 13日 星期四 17:50:01 CST
           inet addr:172.17.0.1  Bcast:0.0.0.0  Mask:255.255.0.0
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
-          inet addr:172.20.10.8  Bcast:172.20.10.15  Mask:255.255.255.240
-          inet6 addr: fe80::b44e:b7b9:8b82:e30d/64 Scope:Link
+          inet addr:10.1.162.15  Bcast:10.1.191.255  Mask:255.255.224.0
+          inet6 addr: fe80::7b78:2799:9a23:96d3/64 Scope:Link
