@@ -1,5 +1,3 @@
-2021年 02月 23日 星期二 12:53:15 CST
+2021年 02月 23日 星期二 13:51:54 CST
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
-        inet 10.2.83.170  netmask 255.255.240.0  broadcast 10.2.95.255
-        inet6 fe80::70f7:a88b:db90:4042  prefixlen 64  scopeid 0x20<link>
