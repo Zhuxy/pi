@@ -1,6 +1,5 @@
-2019年 12月 09日 星期一 16:40:01 CST
-          inet addr:172.17.0.1  Bcast:0.0.0.0  Mask:255.255.0.0
-          inet addr:127.0.0.1  Mask:255.0.0.0
-          inet6 addr: ::1/128 Scope:Host
-          inet addr:10.2.83.209  Bcast:10.2.95.255  Mask:255.255.240.0
-          inet6 addr: fe80::f09d:47cf:6058:301/64 Scope:Link
+2021年 02月 23日 星期二 12:42:07 CST
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        inet 10.2.83.170  netmask 255.255.240.0  broadcast 10.2.95.255
+        inet6 fe80::70f7:a88b:db90:4042  prefixlen 64  scopeid 0x20<link>
