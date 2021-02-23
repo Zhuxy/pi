@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /home/zhuxy/Dev/workspace_git/pi
+# cd /home/zhuxy/Dev/workspace_git/pi
 
 echo $(date) > ipaddress
 
